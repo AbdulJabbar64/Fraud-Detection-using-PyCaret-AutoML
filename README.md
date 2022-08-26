@@ -8,3 +8,7 @@ Compared with the other open-source machine learning libraries, PyCaret is an al
 
 # Modules in PyCaret
 PyCaret’s API is arranged in modules. Each module supports a type of supervised learning (**classification** and **regression**) or unsupervised learning (**clustering, anomaly detection, nlp, association rules mining**). A new module for time series forecasting was released recently under beta as a separate pip package.
+
+# Installing PyCaret
+Installing PyCaret is simple through pip and it takes only a few minutes. PyCaret's default installation only installs hard dependencies as listed in the requirements.txt file on the repo.
+
