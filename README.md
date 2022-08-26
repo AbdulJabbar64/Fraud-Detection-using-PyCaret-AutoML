@@ -12,3 +12,7 @@ PyCaret’s API is arranged in modules. Each module supports a type of supervise
 # Installing PyCaret
 Installing PyCaret is simple through pip and it takes only a few minutes. PyCaret's default installation only installs hard dependencies as listed in the requirements.txt file on the repo.
 
+``pip install pycaret``
+
+## To install the full version:
+``pip install pycaret[full]``
