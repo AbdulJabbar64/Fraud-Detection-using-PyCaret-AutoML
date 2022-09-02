@@ -25,3 +25,4 @@ PyCaret’s claim to fame is its simplicity. Compared to other automated machine
 PyCaret is loaded with functionalities. You can go from processing your data to training models, and then deploying them on the cloud within a few lines of code. It comes with a lot of preprocessing transformations that are applied automatically when the experiment is initialized. The model zoo of PyCaret has over 70 untrained models for supervised and unsupervised tasks.
 
 ![](https://github.com/AbdulJabbar64/Fraud-Detection-using-PyCaret-AutoML/blob/main/images/pycaret_1.png)
+
